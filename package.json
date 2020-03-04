@@ -1,0 +1,41 @@
+{
+  "name": "bulk-image-upload-nodejs",
+  "version": "1.0.0",
+  "description": "Bulk image uploading with progress bar using NodeJS & AJAX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scriptclump/bulk-image-upload-Nodejs.git"
+  },
+  "keywords": [
+    "Multiple",
+    "image",
+    "upload",
+    "Bulk",
+    "Image",
+    "upload",
+    "Image",
+    "upload",
+    "with",
+    "progress",
+    "bar",
+    "NodeJs",
+    "File",
+    "Handeling"
+  ],
+  "author": "Basant Kumar Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scriptclump/bulk-image-upload-Nodejs/issues"
+  },
+  "homepage": "https://github.com/scriptclump/bulk-image-upload-Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "file-type": "^14.1.3",
+    "formidable": "^1.2.2",
+    "read-chunk": "^3.2.0"
+  }
+}
