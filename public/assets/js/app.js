@@ -1,7 +1,7 @@
 // Upload the photos using ajax request.
 function uploadPhotos(formData) {
     $.ajax({
-        url: '/upload_photos',
+        url: '/uploadmultiple',
         method: 'post',
         data: formData,
         processData: false,
